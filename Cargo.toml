@@ -1,4 +1,4 @@
 [package]
-name = "Rust-PriorityQueue"
+name = "rust_datastructure"
 version = "0.1.0"
 authors = ["Yoonsung <lvev9925@naver.com>"]
